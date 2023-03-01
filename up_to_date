@@ -1,1 +1,4 @@
 git clone https://github.com/euGenius29/alx-pre_course
+rm -rf alx-pre_course
+"git clone https://github.com.euGenius29/alx-pre_course" again
+#This was to correct a mistake and start task 4 again
